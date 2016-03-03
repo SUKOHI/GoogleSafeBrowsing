@@ -1,6 +1,6 @@
 {
-    "name": "sukohi/camon",
-    "description": "A PHP package mainly developed for Laravel to generate icon fonts like Font-Awesome, Glyphicons, Ionicons, Octicions, Foundation and Material-Icons.",
+    "name": "sukohi/google-safe-browsing",
+    "description": "A Laravel package to check if a specific URL is secure or not through Google Safe Browsing API.",
     "authors": [
         {
             "name": "Sukohi",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sukohi\\Camon\\": "src/"
+            "Sukohi\\GoogleSafeBrowsing\\": "src/"
         }
     },
     "minimum-stability": "stable"
